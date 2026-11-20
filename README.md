@@ -27,16 +27,16 @@ Vous en avez assez des logiciels gratuits qui affichent des pubs, réclament un 
 
 La suite Quai, c'est une promesse simple :
 
-- 🪟 **De vraies applications Windows.** Natives (WinUI 3), rapides, au look de Windows 11, en thème clair ou sombre. Aucune page web déguisée, aucun navigateur embarqué.
-- 🔒 **Vos données restent chez vous.** Pas de compte, pas de cloud imposé, pas de pistage. Point.
-- 💸 **Gratuit. Vraiment.** Pas de version « Pro », pas d'abonnement, pas de fonction bloquée derrière un paiement.
-- 🇫🇷 **En français, d'abord.** Des mots clairs, pas de jargon inutile.
-- ⚡ **Toujours à jour, en un clic.** Une nouvelle version ? Un bouton, et l'application se met à jour puis redémarre toute seule.
-- 🧩 **Une famille cohérente.** Même philosophie, même installation, mêmes habitudes d'une application à l'autre.
+- **De vraies applications Windows.** Natives (WinUI 3), rapides, au look de Windows 11, en thème clair ou sombre. Aucune page web déguisée, aucun navigateur embarqué.
+- **Vos données restent chez vous.** Pas de compte, pas de cloud imposé, pas de pistage. Point.
+- **Gratuit. Vraiment.** Pas de version « Pro », pas d'abonnement, pas de fonction bloquée derrière un paiement.
+- **En français, d'abord.** Des mots clairs, pas de jargon inutile.
+- **Toujours à jour, en un clic.** Une nouvelle version ? Un bouton, et l'application se met à jour puis redémarre toute seule.
+- **Une famille cohérente.** Même philosophie, même installation, mêmes habitudes d'une application à l'autre.
 
 ---
 
-## 🖥️ Quai — vos serveurs, vos fichiers et vos appareils, dans une seule fenêtre
+## Quai — vos serveurs, vos fichiers et vos appareils, dans une seule fenêtre
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/memton80/quai-ssh/main/docs/images/connexions.png" alt="Le carnet de connexions de Quai : dossiers, étiquettes et recherche">
@@ -60,13 +60,13 @@ La suite Quai, c'est une promesse simple :
 </p>
 
 <p align="center">
-  👉 <a href="https://github.com/memton80/quai-ssh/releases/latest"><b>Télécharger Quai</b></a>
+  <a href="https://github.com/memton80/quai-ssh/releases/latest"><b>Télécharger Quai</b></a>
   · <a href="https://github.com/memton80/quai-ssh">Découvrir le projet</a>
 </p>
 
 ---
 
-## 📄 Quai PDF — lire et retoucher vos PDF, sans prise de tête
+## Quai PDF — lire et retoucher vos PDF, sans prise de tête
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/memton80/quai-pdf/main/docs/images/document.png" alt="Quai PDF : les vignettes à gauche, la page à droite">
@@ -92,7 +92,7 @@ Sous le capot, rien n'est réinventé : le moteur PDF de Windows pour l'affichag
 </p>
 
 <p align="center">
-  👉 <a href="https://github.com/memton80/quai-pdf/releases/latest"><b>Télécharger Quai PDF</b></a>
+  <a href="https://github.com/memton80/quai-pdf/releases/latest"><b>Télécharger Quai PDF</b></a>
   · <a href="https://github.com/memton80/quai-pdf">Découvrir le projet</a>
 </p>
 
@@ -107,10 +107,10 @@ Sous le capot, rien n'est réinventé : le moteur PDF de Windows pour l'affichag
 | **Prix**                   | Gratuit                   | Gratuit                   |
 | **Compte requis**          | Non                       | Non                       |
 | **Publicité / pistage**    | Aucun                     | Aucun                     |
-| **Mise à jour en un clic** | ✅                        | ✅                        |
-| **Thème clair / sombre**   | ✅                        | ✅                        |
-| **PC x64 et ARM**          | ✅                        | ✅                        |
-| **Version portable**       | ✅                        | ✅                        |
+| **Mise à jour en un clic** | Oui                       | Oui                       |
+| **Thème clair / sombre**   | Oui                       | Oui                       |
+| **PC x64 et ARM**          | Oui                       | Oui                       |
+| **Version portable**       | Oui                       | Oui                       |
 
 ---
 
@@ -132,7 +132,7 @@ Les applications Quai grandissent grâce à vos retours.
 
 - Une suggestion ou un problème sur **Quai** → [ouvrir un ticket](https://github.com/memton80/quai-ssh/issues)
 - Une suggestion ou un problème sur **Quai PDF** → [ouvrir un ticket](https://github.com/memton80/quai-pdf/issues)
-- Vous aimez ? ⭐ Une étoile sur GitHub, ça fait toujours plaisir et ça aide les autres à nous trouver.
+- Vous aimez ? Une étoile sur GitHub, ça fait toujours plaisir et ça aide les autres à nous trouver.
 
 <p align="center">
   <b>La suite Quai : gratuite, libre (licence MIT) et faite pour durer.</b>
