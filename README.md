@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/memton80/quai-ssh/main/docs/images/logo.png" width="80" alt="Logo de Quai">
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/memton80/quai-pdf/main/docs/images/logo.png" width="80" alt="Logo de Quai PDF">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/memton80/quai-mail/main/docs/images/logo.png" width="80" alt="Logo de Quai Mail">
 </p>
 
 <h1 align="center">La suite Quai</h1>
@@ -15,6 +17,8 @@
   <a href="https://github.com/memton80/quai-ssh/releases/latest"><b>Télécharger Quai</b></a>
   ·
   <a href="https://github.com/memton80/quai-pdf/releases/latest"><b>Télécharger Quai PDF</b></a>
+  ·
+  <a href="https://github.com/memton80/quai-mail/releases/latest"><b>Télécharger Quai Mail</b></a>
   <br>
   Gratuit · Sans compte · Sans publicité · Open source
 </p>
@@ -98,19 +102,40 @@ Sous le capot, rien n'est réinventé : le moteur PDF de Windows pour l'affichag
 
 ---
 
+## Quai Mail — vos mails, simplement, avec un œil sur l'hameçonnage
+
+> **Projet en cours de construction** : Gmail et Outlook.com (connexion par le navigateur, sans mot de passe) arrivent bientôt.
+
+**Un client mail de base, gratuit, sans compte à créer.** Quai Mail lit et écrit vos mails depuis une vraie application Windows, et ne parle qu'à vos serveurs mail (et à GitHub, pour savoir s'il existe une nouvelle version, désactivable).
+
+- **Plusieurs comptes IMAP / SMTP** : réglages détectés, comptes repliables, boîte de réception unifiée.
+- **Lecture sûre** : le corps des mails est affiché dans un espace verrouillé, sans JavaScript, images distantes bloquées par défaut, aucun lien suivi sans votre accord.
+- **Expéditeurs sûrs et mode méfiant** : expéditeur usurpé, domaine sosie, lien trompeur signalés, sans rien envoyer sur Internet.
+- **Pièces jointes vérifiées par Windows** : antivirus et SmartScreen s'en chargent.
+- **Mails signés avec OpenPGP** : votre clé GnuPG / Kleopatra, importée en un clic.
+- **Réception en direct** avec notifications, recherche, corbeille, brouillons enregistrés en local.
+- **Mots de passe dans le coffre de Windows.**
+
+<p align="center">
+  <a href="https://github.com/memton80/quai-mail/releases/latest"><b>Télécharger Quai Mail</b></a>
+  · <a href="https://github.com/memton80/quai-mail">Découvrir le projet</a>
+</p>
+
+---
+
 ## En un coup d'œil
 
-|                            | Quai                      | Quai PDF                  |
-|----------------------------|---------------------------|---------------------------|
-| **Pour qui ?**             | Admins, devs, bidouilleurs | Tout le monde             |
-| **Remplace**               | PuTTY, WinSCP, MobaXterm, Termius | Les éditeurs PDF lourds ou en ligne |
-| **Prix**                   | Gratuit                   | Gratuit                   |
-| **Compte requis**          | Non                       | Non                       |
-| **Publicité / pistage**    | Aucun                     | Aucun                     |
-| **Mise à jour en un clic** | Oui                       | Oui                       |
-| **Thème clair / sombre**   | Oui                       | Oui                       |
-| **PC x64 et ARM**          | Oui                       | Oui                       |
-| **Version portable**       | Oui                       | Oui                       |
+|                            | Quai                      | Quai PDF                  | Quai Mail                 |
+|----------------------------|---------------------------|---------------------------|---------------------------|
+| **Pour qui ?**             | Admins, devs, bidouilleurs | Tout le monde             | Tout le monde             |
+| **Remplace**               | PuTTY, WinSCP, MobaXterm, Termius | Les éditeurs PDF lourds ou en ligne | Les clients mail lourds ou bourrés de pubs |
+| **Prix**                   | Gratuit                   | Gratuit                   | Gratuit                   |
+| **Compte requis**          | Non                       | Non                       | Non                       |
+| **Publicité / pistage**    | Aucun                     | Aucun                     | Aucun                     |
+| **Mise à jour en un clic** | Oui                       | Oui                       | Oui                       |
+| **Thème clair / sombre**   | Oui                       | Oui                       | Oui                       |
+| **PC x64 et ARM**          | Oui                       | Oui                       | Oui                       |
+| **Version portable**       | Oui                       | Oui                       | Oui                       |
 
 ---
 
@@ -132,6 +157,7 @@ Les applications Quai grandissent grâce à vos retours.
 
 - Une suggestion ou un problème sur **Quai** → [ouvrir un ticket](https://github.com/memton80/quai-ssh/issues)
 - Une suggestion ou un problème sur **Quai PDF** → [ouvrir un ticket](https://github.com/memton80/quai-pdf/issues)
+- Une suggestion ou un problème sur **Quai Mail** → [ouvrir un ticket](https://github.com/memton80/quai-mail/issues)
 - Vous aimez ? Une étoile sur GitHub, ça fait toujours plaisir et ça aide les autres à nous trouver.
 
 <p align="center">
